@@ -2,10 +2,11 @@
 
 Django REST API for PesaSave, a budget and expense tracker for Kenyan students.
 
-**Live API:** (add your Render URL here)
+**Live API:** https://pesasave-api.onrender.com/api
+**Live app:** https://retain-frontend-three.vercel.app
 **Frontend repo:** https://github.com/VeronicahWanjuu/retain-frontend
-**Grader admin login:** username `admin` / password `(the ADMIN_PASSWORD you set)`
 
+**Admin login (for grading):** username `admin`, password `veronicah`
 ## Tech
 Django, Django REST Framework, SimpleJWT, PostgreSQL (SQLite locally), WhiteNoise, Gunicorn.
 
